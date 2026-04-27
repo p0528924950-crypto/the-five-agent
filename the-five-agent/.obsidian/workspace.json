@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "22511ab95bccd026",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec38b8fda3263daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e540a9024781672",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "כרטיסייה חדשה"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "975c4350f9a9b101",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8021e24641b347",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b96e1569ec5b0db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "7fc62da23c20a199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "50b1b8fb51200717",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de0907b7809e554e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef78a1cc69484468",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0871f61359fb9b4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים"
+            }
+          },
+          {
+            "id": "2a7f8ba554afe8e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים"
+            }
+          },
+          {
+            "id": "081a94e6ae2b740d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "0721893bbd8b2439",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "d63845c0ddcb4698",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתווה"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "9e540a9024781672",
+  "lastOpenFiles": [
+    "current_property_data/סיכום_ובקרת_איכות/README.md",
+    "current_property_data/ניתוח_שוק_ותחשיבים/README.md",
+    "current_property_data/מצב_משפטי_וקנייני/README.md",
+    "current_property_data/מצב_תכנוני_ורישוי/README.md",
+    "current_property_data/תיאור_פיזי_וסביבה/README.md",
+    "current_property_data/נתוני_בסיס_וזיהוי/README.md",
+    "current_property_data/תיאור_פיזי_וסביבה",
+    "current_property_data/סיכום_ובקרת_איכות",
+    "current_property_data/נתוני_בסיס_וזיהוי",
+    "current_property_data/ניתוח_שוק_ותחשיבים",
+    "current_property_data/מצב_תכנוני_ורישוי",
+    "current_property_data/מצב_משפטי_וקנייני",
+    "current_property_data",
+    "agent6-factors-considerations-prd.md",
+    "agent5-market-valuation-prd.md",
+    "agent4-legal-tenure-prd.md",
+    "agent3-regulatory-permit-prd.md",
+    "agent2-physical-env-prd.md",
+    "agent1-setup-id-prd.md",
+    "skills/skill-creator/references/schemas.md",
+    "skills/skill-creator/references",
+    "skills/skill-creator/agents/grader.md",
+    "skills/skill-creator/agents/comparator.md",
+    "skills/skill-creator/agents/analyzer.md",
+    "skills/skill-creator/agents",
+    "skills/skill-creator/SKILL.md",
+    "skills/skill-creator",
+    "ceo-agent-prd.md",
+    "skills/obsidian-vault-workflow/SKILL.md",
+    "skills/obsidian-markdown/SKILL.md",
+    "skills/obsidian-bases/SKILL.md",
+    "skills/README.md",
+    "CLAUDE.md"
+  ]
+}
